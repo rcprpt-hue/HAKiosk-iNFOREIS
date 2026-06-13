@@ -1,0 +1,6 @@
+{
+  "name": "HA Kiosk",
+  "description": "A smart fullscreen kiosk with profiles, screensavers, auto-connect and device telemetry reporting for Home Assistant dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
